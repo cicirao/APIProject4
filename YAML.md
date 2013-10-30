@@ -5,6 +5,8 @@
 
 YAML is a human friendly data serialization standard for all programming languages.
 
+YAML is superset of JSON.
+
 Since 2001, YAML has three editions till today:
 >  [YAML 1.2 (3rd Edition)](http://www.yaml.org/spec/1.2/spec.html)
 
